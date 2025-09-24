@@ -1,0 +1,2 @@
+te_test_compatible.nc,msl
+vort_subset_te.nc,vo700
